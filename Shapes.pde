@@ -4,9 +4,9 @@ void setup() {
 }
 
 void draw() {
-  fill(0, 0, 255);
+  fill(255, 0, 0);
   ellipse(370, 290, 50, 50);
   
-  fill(0, 0, 255);
+  fill(255, 0, 0);
   ellipse(0, 0, 40, 40);
 }
